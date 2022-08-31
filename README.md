@@ -10,3 +10,5 @@ una vez clonado o descargado el diseño web ,ya se podra ver la web accediendo a
 
 ⦁ Tipografía: se utilizo contendio armonico lo que permite al lector ver con facilidad el contenido de dicha web.
 ![Startup](https://raw.githubusercontent.com/fagust1992/cv/main/img/proyecto5.png "Startup")
+## link web 💚
+[startup-chile](http://startup-chile.netlify.app/ "startup-chile")
